@@ -1,0 +1,14 @@
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\bin\Debug\net6.0\DAL2.deps.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\bin\Debug\net6.0\DAL2.runtimeconfig.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\bin\Debug\net6.0\DAL2.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\bin\Debug\net6.0\DAL2.pdb
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.csproj.AssemblyReference.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.AssemblyInfoInputs.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.AssemblyInfo.cs
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.csproj.CoreCompileInputs.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\refint\DAL2.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.pdb
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\DAL2.genruntimeconfig.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\DBFirst\DAL2\obj\Debug\net6.0\ref\DAL2.dll
